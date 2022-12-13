@@ -460,19 +460,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hoanglevan\\.nuget\\packages\\": {}
+    "C:\\Users\\hleva\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\AdminApiCore\\DemoApiCore\\DemoApiCore.csproj",
+      "projectUniqueName": "D:\\Source\\AdminApiCore\\DemoApiCore\\DemoApiCore.csproj",
       "projectName": "DemoApiCore",
-      "projectPath": "F:\\AdminApiCore\\DemoApiCore\\DemoApiCore.csproj",
-      "packagesPath": "C:\\Users\\hoanglevan\\.nuget\\packages\\",
-      "outputPath": "F:\\AdminApiCore\\DemoApiCore\\obj\\",
+      "projectPath": "D:\\Source\\AdminApiCore\\DemoApiCore\\DemoApiCore.csproj",
+      "packagesPath": "C:\\Users\\hleva\\.nuget\\packages\\",
+      "outputPath": "D:\\Source\\AdminApiCore\\DemoApiCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hoanglevan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hleva\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -480,8 +480,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.com-b.vn/nuget": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {

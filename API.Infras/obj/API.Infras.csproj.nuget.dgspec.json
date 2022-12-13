@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Source\\AdminApiCore\\API.Application\\API.Application.csproj": {}
+    "D:\\Source\\AdminApiCore\\API.Infras\\API.Infras.csproj": {}
   },
   "projects": {
-    "D:\\Source\\AdminApiCore\\API.Application\\API.Application.csproj": {
+    "D:\\Source\\AdminApiCore\\API.Infras\\API.Infras.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Source\\AdminApiCore\\API.Application\\API.Application.csproj",
-        "projectName": "API.Application",
-        "projectPath": "D:\\Source\\AdminApiCore\\API.Application\\API.Application.csproj",
+        "projectUniqueName": "D:\\Source\\AdminApiCore\\API.Infras\\API.Infras.csproj",
+        "projectName": "API.Infras",
+        "projectPath": "D:\\Source\\AdminApiCore\\API.Infras\\API.Infras.csproj",
         "packagesPath": "C:\\Users\\hleva\\.nuget\\packages\\",
-        "outputPath": "D:\\Source\\AdminApiCore\\API.Application\\obj\\",
+        "outputPath": "D:\\Source\\AdminApiCore\\API.Infras\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hleva\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +39,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
-              "target": "Package",
-              "version": "[12.0.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
