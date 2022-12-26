@@ -111,3 +111,7 @@ D:\Source\AdminApiCore\DemoApiCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCor
 D:\Source\AdminApiCore\DemoApiCore\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 D:\Source\AdminApiCore\DemoApiCore\bin\Debug\net7.0\Mono.TextTemplating.dll
 D:\Source\AdminApiCore\DemoApiCore\bin\Debug\net7.0\System.CodeDom.dll
+D:\Source\AdminApiCore\DemoApiCore\bin\Debug\net7.0\AutoMapper.dll
+D:\Source\AdminApiCore\DemoApiCore\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Source\AdminApiCore\DemoApiCore\bin\Debug\net7.0\API.Application.dll
+D:\Source\AdminApiCore\DemoApiCore\bin\Debug\net7.0\API.Application.pdb

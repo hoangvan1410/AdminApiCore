@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "kLrQmHR52SfmvNRA3qmr3w6p4QcruPHYlcrzP1Ws6cUdDh4CQIFNmhFDI2WuUc7lrsHMyHULA86jbRZtWRhb9A==",
+  "dgSpecHash": "PU2Df50D7iCRY/evm9mdEA9OnE0uW9hOFk5y3imJ9rHsZvY7ycKXE3gLYnZ8xl0gGwHZ2Uq6xe6e2z/npQOOJQ==",
   "success": true,
   "projectFilePath": "D:\\Source\\AdminApiCore\\API.Infras\\API.Infras.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\hleva\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\hleva\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\hleva\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\hleva\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\hleva\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\hleva\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\hleva\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\hleva\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",
     "C:\\Users\\hleva\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.0.1\\microsoft.data.sqlclient.sni.runtime.5.0.1.nupkg.sha512",
     "C:\\Users\\hleva\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.1\\microsoft.entityframeworkcore.7.0.1.nupkg.sha512",
